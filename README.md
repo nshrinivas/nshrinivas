@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nshrinivas
+- 🌱 I’m currently learning computer science
